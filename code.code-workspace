@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../../../code"
+		},
+		{
+			"name": "mywbe",
+			"path": "D:/mywbe"
+		},
+		{
+			"name": "vite-project",
+			"path": "../../../../vite-project"
+		},
+		{
+			"name": "v-project",
+			"path": "../../../../v-project"
+		},
+		{
+			"name": "demo1",
+			"path": "../../../demo1"
+		},
+		{
+			"name": "demo2",
+			"path": "../../../demo2"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../vitez-project"
+		},
+		{
+			"path": "../../../django2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "v-project"
+	}
+}
